@@ -1,4 +1,6 @@
-nstall
+#!/bin/bash
+
+bundle install
 
 bundle exec veewee vbox build 'centos63' --force --auto --nogui
 bundle exec veewee vbox validate 'centos63'
