@@ -1,3 +1,5 @@
 ## Vagrant VirtualBox
 # Ignore .box files.
 *.box
+*.iso
+
