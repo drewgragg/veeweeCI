@@ -5,7 +5,7 @@
 # Set "fail on error" in bash
 set -e
 
-bundle install
+bundle install --path vendor
 
 bundle exec veewee vbox build 'centos63' --force --auto --nogui
 bundle exec veewee vbox validate 'centos63'

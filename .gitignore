@@ -2,4 +2,5 @@
 # Ignore .box files.
 *.box
 *.iso
-
+vendor/ruby
+iso/
