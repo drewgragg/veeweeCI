@@ -1,4 +1,4 @@
 veeweeCI
 ========
 
-veewee+vagrant+jenkins+artifactory
+veewee+vagrant+jenkins+?
